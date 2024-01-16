@@ -12,3 +12,5 @@ const FactSchema = new Schema({
 const FactModel = model("Fact", FactSchema);
 
 module.exports = FactModel;
+
+
